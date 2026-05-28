@@ -117,6 +117,14 @@ The interactive dashboard includes:
 
 ---
 
+#Dashboard Preview
+
+<img width="3420" height="1576" alt="image" src="https://github.com/user-attachments/assets/b6d4c999-2bca-47e3-a4a6-dbfd64fc8bd4" />
+
+<img width="3420" height="1576" alt="image" src="https://github.com/user-attachments/assets/90060853-74bb-4a4f-8958-066a91706e9f" />
+
+<img width="3420" height="1582" alt="image" src="https://github.com/user-attachments/assets/d430e5c8-c4c3-407a-9455-8416ab27e41c" />
+
 # Key Insights
 
 * Women customers contribute higher overall sales.
