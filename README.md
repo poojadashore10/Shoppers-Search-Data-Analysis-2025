@@ -1,3 +1,7 @@
+Shoppers Search is an all-in-one online shopping platform that allows customers to browse, compare, and purchase products across multiple categories such as clothing, fashion, and accessories.
+
+This project analyzes customer shopping behavior, sales performance, product categories, and channel contributions to help understand business trends and improve decision-making using Microsoft Excel dashboards and data analysis techniques.
+
 # Shoppers Search Data Analysis 2025 (Excel Project)
 
 ## Overview
